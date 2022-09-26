@@ -8,4 +8,11 @@ To run the code please use ' kjtkgj tkljh tkl '
 
 ` klrg lrkj glkr `
 ___
-<span style="color:blue">some *blue* text</span>.
+// resets
+s { text-decoration:none; } //strike-through
+em { font-style: normal; font-weight: bold; } //italic emphasis
+
+
+// colors
+s { color: green }
+em { color: blue }
