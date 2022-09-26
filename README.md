@@ -8,5 +8,4 @@ To run the code please use ' kjtkgj tkljh tkl '
 
 ` klrg lrkj glkr `
 ___
-header-includes: \usepackage{xcolor}
-\textcolor{green}{Text is green!}
+<style>H1{color:Blue;}</style>
