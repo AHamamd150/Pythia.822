@@ -8,11 +8,4 @@ To run the code please use ' kjtkgj tkljh tkl '
 
 ` klrg lrkj glkr `
 ___
-// resets
-s { text-decoration:none; } //strike-through
-em { font-style: normal; font-weight: bold; } //italic emphasis
-
-
-// colors
-s { color: green }
-em { color: blue }
+<font color='red'>test blue color font</font>
