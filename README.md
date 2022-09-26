@@ -8,4 +8,5 @@ To run the code please use ' kjtkgj tkljh tkl '
 
 ` klrg lrkj glkr `
 ___
-<font color='red'>test blue color font</font>
+header-includes: \usepackage{xcolor}
+\textcolor{green}{Text is green!}
